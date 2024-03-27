@@ -3,7 +3,7 @@ on: workflow_dispatch
 
 env:
   PROJECT_NAME: "spec-2703"
-  HOST_NAME: "vkpr.platform.vee.codes"
+  HOST_NAME: "kong.vkpr.platform.vee.codes"
   PORT: 6550
   USERNAME: "ec2-user"
 
