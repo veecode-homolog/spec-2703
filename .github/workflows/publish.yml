@@ -125,7 +125,7 @@ jobs:
         env:
           NAME: ""
           PATH_API: ""
-          TAGS: "validação"
+          TAGS: "validacao"
         run: |
           mkdir -p api/
           NAME=`echo $PROJECT_NAME`
